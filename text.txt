@@ -1,3 +1,4 @@
 this is a text file
-This line will create a conflict. master branch.
+This line will create a conflict. master branch..
+Creating a conflict - verification branch
 
