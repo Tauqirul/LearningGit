@@ -1,1 +1,3 @@
+
 this file is modified to create a merge conflict scenario
+modifying content before unstaging file from staged area, this is create a conflict
